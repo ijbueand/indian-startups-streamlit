@@ -1,5 +1,6 @@
 # India in Startups
 ## Streamlit App by Isaías Bueno
+**Link to the APP**: https://ijbueand-indian-startups-streamlit-indian-startups-app-wlx79d.streamlit.app/ 
 ### Table of Contents
 1. Historical context
 2. About the dataset
